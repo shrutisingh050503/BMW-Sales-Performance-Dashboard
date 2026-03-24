@@ -1,3 +1,7 @@
+<img width="1920" height="1080" alt="BMW Sales performance" src="https://github.com/user-attachments/assets/098aefdc-7c83-43b7-83d7-b56d48201dc1" />
+
+
+
 <img width="882" height="495" alt="BMW Sales performance dashboard" src="https://github.com/user-attachments/assets/baf368f1-f6a5-4742-b698-9bddbbdf322f" />
 
 
